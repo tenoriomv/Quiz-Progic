@@ -1,0 +1,18 @@
+*{
+  padding: 0px;
+  margin: 0;
+  font-family: "Inter";
+}
+body, #root{
+  height: 100vh;
+
+}
+
+:root{
+  --backgroud: #ffffff;
+  --brand-primary: rgb(0, 116, 191);
+  --brand-secondary: rgb(106, 80, 167);
+  --opt-backgroud: rgba(0, 116, 191, 0.09);
+  --opt-backgroud-click: rgba(0, 116, 191, 0.7);
+  --brand-primary-load-full: rgba(0, 116, 191, 0.08);
+}
