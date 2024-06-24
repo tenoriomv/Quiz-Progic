@@ -54,8 +54,8 @@ function App() {
           options={[
             { name: "WhatsApp", value: "A" },
             { name: "E-mail", value: "B" },
-            { name: "", value: "C" },
-            { name: "A", value: "D" },
+            { name: "Tv Corporativa", value: "C" },
+            { name: "Aplicativo Corporativo", value: "D" },
           ]}
           buttonLabel="Proxima"
           onConfirm={(value) => {
